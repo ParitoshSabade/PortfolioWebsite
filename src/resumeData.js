@@ -49,7 +49,7 @@ let resumeData = {
         "StartDate":"June 2023",
         "EndDate":"Present",
         "Location":"Bloomington, Indiana",
-        "Work":['Explored **PyTorch** and Quiver for distributed graph learning in PyTorch Geometric, enabling efficient scaling across multiple GPUs and CPUs.', 'Develop optimized **C++** code utilizing Quiver to enhance the performance of PyTorch for specific tasks, improving its efficiency and effectiveness.', 'Create a **Python** wrapper that facilitates the execution of **graph neural networks** within the C++ code, enabling seamless integration and utilization of the enhanced PyTorch functionality.'],
+        "Work":['Explored **PyTorch** and Quiver for distributed graph learning in PyTorch Geometric, enabling efficient scaling across multiple GPUs and CPUs.', 'Developed optimized **C++** code utilizing Quiver to enhance the performance of PyTorch for specific tasks, improving its efficiency and effectiveness.', 'Created a **Python** wrapper that facilitates the execution of **graph neural networks** within the C++ code, enabling seamless integration and utilization of the enhanced PyTorch functionality.'],
       },
       {
         "CompanyName":"Bloom Insurance",

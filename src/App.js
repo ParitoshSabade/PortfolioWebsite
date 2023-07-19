@@ -8,6 +8,7 @@ import ContactUs from './components/ContactUs';
 import Footer from './components/Footer';
 import resumeData from './resumeData';
 import Experience from './components/Experience';
+import Skills from './components/Skills';
 class App extends Component {
   render() {
     return (
@@ -17,6 +18,7 @@ class App extends Component {
         <Education resumeData={resumeData}/>
         <Experience resumeData={resumeData}/>
         <Projects resumeData={resumeData}/>
+        <Skills resumeData={resumeData}/>
         <ContactUs resumeData={resumeData}/>
         <Footer resumeData={resumeData}/>
       </div>

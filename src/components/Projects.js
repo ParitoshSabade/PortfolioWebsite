@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import ReactMarkdown from "react-markdown";
 export default  class Projects extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -25,7 +26,7 @@ export default  class Projects extends Component {
                           <ul>
                                 {item.description.map((subitem, index) => (
                                     <li key={index} style={{ listStyle: 'disc', color: '#3d3d3d',fontFamily: "'opensans-regular', sans-serif",fontSize:"15px",fontWeight:"normal",lineHeight:"30px"}}>
-                                    {subitem}
+                                    <ReactMarkdown>{subitem}</ReactMarkdown>
                                     </li>
                                 ))}
                                 </ul>

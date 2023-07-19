@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Software Engineer",
     "linkedinId":"https://www.linkedin.com/in/paritosh-sabade/",
     
-    "roleDescription": "an aspiring software engineer who believes that coding is like a delicious recipe – a pinch of creativity, a dash of logic, and a spoonful of determination. With a passion for tackling challenges head-on, I'm on a mission to whip up innovative solutions that will leave a lasting impression. So grab a cup of coffee and explore my projects – I promise they'll be more than just bytes and line of code!",
+    "roleDescription": "I am an aspiring software engineer who believes that coding is like a delicious recipe – a pinch of creativity, a dash of logic, and a spoonful of determination. With a passion for tackling challenges head-on, I'm on a mission to whip up innovative solutions that will leave a lasting impression. So grab a cup of coffee and explore my projects – I promise they'll be more than just bytes and line of code!",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -44,12 +44,12 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Indiana University",
+        "CompanyName":"Indiana University, Bloomington",
         "specialization":"Research Assistant",
         "StartDate":"June 2023",
         "EndDate":"Present",
         "Location":"Bloomington, Indiana",
-        "Work":['Research and gain proficiency in PyTorch and its associated library Quiver, designed for distributed graph learning in PyTorch Geometric (PyG), enabling efficient scaling of PyG programs across multiple GPUs and CPUs.', 'Develop optimized C++ code utilizing Quiver to enhance the performance of PyTorch for specific tasks, improving its efficiency and effectiveness.', 'Create a Python wrapper that facilitates the execution of graph neural networks within the C++ code, enabling seamless integration and utilization of the enhanced PyTorch functionality.'],
+        "Work":['Explored **PyTorch** and Quiver for distributed graph learning in PyTorch Geometric, enabling efficient scaling across multiple GPUs and CPUs.', 'Develop optimized **C++** code utilizing Quiver to enhance the performance of PyTorch for specific tasks, improving its efficiency and effectiveness.', 'Create a **Python** wrapper that facilitates the execution of **graph neural networks** within the C++ code, enabling seamless integration and utilization of the enhanced PyTorch functionality.'],
       },
       {
         "CompanyName":"Bloom Insurance",
@@ -57,7 +57,7 @@ let resumeData = {
         "StartDate":"May 2022",
         "EndDate":"Aug 2022",
         "Location":"Bloomington, Indiana",
-        "Work":['Worked on a project to allow users to save incomplete insurance application forms. Changed the process flow using .NET to empower the user to continue incomplete applications by clicking an email link without creating an account making the application process 30% faster.', 'Used JavaScript with Ajax framework to create fast and dynamic front-end for web pages.', 'Worked on general maintenance and support of the insurance provider platform.'],
+        "Work":['Worked on a project that enabled users to save and resume incomplete insurance applications through an email link, reducing the process time by **30%**.', 'Used **JavaScript** with **Ajax** framework to create fast and dynamic front-end for web pages. Utilized **.NET** framework for back-end.', 'Worked on general maintenance and support of the insurance provider platform.'],
       },
       {
         "CompanyName":"Siddhivinayak Aesthetics Pvt. Ltd",
@@ -65,7 +65,7 @@ let resumeData = {
         "StartDate":"Jan 2021",
         "EndDate":"May 2021",
         "Location":"Pune, India",
-        "Work":['Worked on a project to allow users to save incomplete insurance application forms. Changed the process flow using .NET to empower the user to continue incomplete applications by clicking an email link without creating an account making the application process 30% faster.', 'Used JavaScript with Ajax framework to create fast and dynamic front-end for web pages.', 'Worked on general maintenance and support of the insurance provider platform.'],
+        "Work":['Developed an agile, software-driven application to automate and improve quality assurance for painted auto parts, replacing the pen-and-paper method.', 'Designed a two-app system comprising an **Android** app for data entry by inspectors and a **React** web dashboard to manage activities, monitor parts, and calculate rejection rates for informed quality decisions.', 'Improved the efficiency of the quality assurance cycle. Reduced quality control response time from 6 days to less than **2 days**.'],
       }
     ],
     "skillsDescription":"Your skills here",
@@ -84,14 +84,14 @@ let resumeData = {
       {
         "name":"Distributed Map Reduce",
         "Date": "October 2022",
-        "description":["Implemented a distributed Map Reduce system from scratch, utilizing Python scripting to provision VM instances on Google Cloud, establish inter-communication, and transfer data and execution files.","Incorporated fault tolerance mechanisms, including a distributed database and server heartbeat checkup, to ensure reliable operation.","Developed a user-friendly front-end interface for data input, initiation and monitoring of Map Reduce processes, and result visualization."],
+        "description":["Implemented a distributed **Map Reduce** system from scratch, utilizing **Python** scripting to provision VM instances on **Google Cloud**, establish inter-communication, and transfer data and execution files.","Incorporated fault tolerance mechanisms, including a distributed database and server heartbeat checkup, to ensure reliable operation.","Developed a user-friendly front-end interface for data input, initiation and monitoring of Map Reduce processes, and result visualization."],
         "github" : "https://github.com/ParitoshSabade/DistributedMapReduce",
         
       },
       {
         "name":"Event Reservation System",
         "Date": "October 2021",
-        "description":["Designed and developed a web application for wedding management. Developed features such as booking a venue, scheduling a wedding, managing the guest-list, and adding venues to host weddings using the application.","Utilized Agile Methodology for effective project management and seamless implementation of the project.","Used React for front-end development, Flask for back-end development, and Heroku for deployment."],
+        "description":["Designed and developed a web application for wedding management. Developed features such as booking a venue, scheduling a wedding, managing the guest-list, and adding venues to host weddings using the application.","Utilized **Agile Methodology** for effective project management and seamless implementation of the project.","Used **React** for front-end development, **Flask** for back-end development, and **Heroku** for deployment."],
         "github" : "https://github.com/ParitoshSabade/Wedding-Reservation-System",
       },
       {
@@ -103,7 +103,7 @@ let resumeData = {
       {
         "name":"Restaurant Management System ",
         "Date": "July 2018",
-        "description":["Developed an Android app in a 4 person team to manage Restaurants, automating most of the manual work.","The application is capable of displaying menu, taking orders, communicating the order to the kitchen, generating bill and payment.","Minimized the manpower required in restaurants by almost 40 percent. Earned an appreciation letter from a restaurant where this application was practically implemented."],
+        "description":["Developed an Android app to manage Restaurants, automating most of the manual work.","The application is capable of displaying menu, taking orders, communicating the order to the kitchen, generating bill and payment.","Minimized the manpower required in restaurants by almost **40 percent**. Earned an appreciation letter from a restaurant where this application was practically implemented."],
         "github" : "https://github.com/ParitoshSabade/RestaurantManagementApp-Main",
       
       }
@@ -117,7 +117,16 @@ let resumeData = {
         "description":"This is a sample testimonial",
         "name":"Some technical guy"
       }
-    ]
+    ],
+    "Skills": [
+      
+      "**Programming Languages:** Python, C#, Java, C++, JavaScript, HTML/CSS.",
+      "**Frameworks:** Flask, Django, React, .NET, Node.js.",
+      "**Cloud:** AWS (EC2, S3, RDS), GCP (Compute Engine, Cloud Storage, Cloud Functions).",
+      "**Tools:** Git, JIRA, Docker, Kubernetes, Bitbucket, SourceTree, Jenkins, Selenium.",
+      
+    
+  ]
   }
   
   export default resumeData

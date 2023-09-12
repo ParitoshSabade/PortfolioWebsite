@@ -18,7 +18,7 @@ let resumeData = {
         },
         
       ],
-    "aboutme":"Hello, I'm Paritosh Sabade, a software developer with a passion for creating innovative solutions. I thrive on the challenge of solving complex problems and constantly strive to expand my knowledge and expertise in the ever-evolving field of technology. With a master's degree in Computer Science from Indiana University and a strong background in programming languages such as Python, C#, Java, and C++, I am well-equipped to tackle diverse software development projects. What sets me apart is my unwavering dedication to giving my best in every endeavor, my eagerness to learn new technologies, and my ability to adapt to changing environments. I am driven by a desire to make a positive impact through my work, and I look forward to taking on new challenges in the software development industry.",
+    "aboutme":"Hello, I'm Paritosh Sabade, a software developer with a master's degree in Computer Science from Indiana University. I'm passionate about creating innovative solutions and have a strong background in Python, C#, JavaScript, Java, and C++. Currently, I'm a Research Assistant at Indiana University Bloomington, where I've been using Python and C++ in research projects. I've also gained valuable industry experience as a Software Engineer intern at Bloom Insurance, working with C#, .NET, and Entity Framework ORM. Additionally, I interned at SAPL Asia, where I honed my skills in JavaScript, React, and Python, focusing on web development. My commitment to excellence, enthusiasm for learning, and adaptability set me apart. I am driven by a desire to make a positive impact through my work, and I look forward to taking on new challenges in the software development industry. ",
     "address":"Bloomington, Indiana, USA",
     "website":"paritosh.sabade@gmail.com",
     "education":[
@@ -121,7 +121,7 @@ let resumeData = {
     "Skills": [
       
       "**Programming Languages:** Python, C#, Java, C++, JavaScript, HTML/CSS.",
-      "**Frameworks:** Flask, Django, React, .NET, Node.js.",
+      "**Frameworks:** Flask, Django, React, .NET, Node.js, Entity Framework.",
       "**Cloud:** AWS (EC2, S3, RDS), GCP (Compute Engine, Cloud Storage, Cloud Functions).",
       "**Tools:** Git, JIRA, Docker, Kubernetes, Bitbucket, SourceTree, Jenkins, Selenium.",
       

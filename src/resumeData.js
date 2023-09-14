@@ -57,7 +57,7 @@ let resumeData = {
         "StartDate":"May 2022",
         "EndDate":"Aug 2022",
         "Location":"Bloomington, Indiana",
-        "Work":['Worked on a project that enabled users to save and resume incomplete insurance applications through an email link, reducing the process time by **30%**.', 'Used **JavaScript** with **Ajax** framework to create fast and dynamic front-end for web pages. Utilized **.NET** framework for back-end.', 'Worked on general maintenance and support of the insurance provider platform.'],
+        "Work":['Worked on a project that enabled users to save and resume incomplete insurance applications through an email link, reducing the process time by **30%**.', 'Used **JavaScript** with **Ajax** framework to create fast and dynamic front-end for web pages. Utilized **.NET** framework for back-end.', 'Utilized **Entity Framework** ORM to efficiently perform Create, Read, Update, and Delete (CRUD) operations on insurance plans data stored in **PostgreSQL** databases.'],
       },
       {
         "CompanyName":"Siddhivinayak Aesthetics Pvt. Ltd",

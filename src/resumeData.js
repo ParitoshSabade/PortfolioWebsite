@@ -19,7 +19,6 @@ let resumeData = {
         
       ],
     "aboutme":"Hello, I'm Paritosh Sabade, a software developer with a master's degree in Computer Science from Indiana University. I'm passionate about creating innovative solutions and have a strong background in Python, C#, JavaScript, Java, and C++. Currently, I'm a Research Assistant at Indiana University Bloomington, where I've been using Python and C++ in research projects. I've also gained valuable industry experience as a Software Engineer intern at Bloom Insurance, working with C#, .NET, and Entity Framework ORM. Additionally, I interned at SAPL Asia, where I honed my skills in JavaScript, React, and Python, focusing on web development. My commitment to excellence, enthusiasm for learning, and adaptability set me apart. I am driven by a desire to make a positive impact through my work, and I look forward to taking on new challenges in the software development industry. ",
-    "address":"Bloomington, Indiana, USA",
     "website":"paritosh.sabade@gmail.com",
     "education":[
       {
